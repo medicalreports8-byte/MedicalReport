@@ -1,0 +1,6 @@
+streamlit
+groq
+Pillow
+pdfplumber
+plotly
+fpdf2
